@@ -1,5 +1,5 @@
 tensorflow==2.8.0
-Keras==2.4.3
+keras<2.9
 pillow
 matplotlib
 pandas
